@@ -39,5 +39,5 @@ Here is the breakdown of the core projects I shipped and deployed live to produc
 *   **Languages:** JavaScript (ES6), HTML5, CSS3
 *   **Tools:** React.js, Tailwind CSS, Git, GitHub, Vercel
 
-📫 **Find me here:** https://github.com/
+📫 **Find me here:** https://github.com/dunuchibuike
 
