@@ -1,5 +1,5 @@
 # Hi, I'm Dunu Chibuike 👋
-### Frontend Web Developer & Computer Science Intern
+### Frontend Web Developer & Computer Science Student
 
 Welcome to my profile! I just completed my 6-month industrial placement at **The Curve Africa**, where I focused heavily on building mobile-responsive web applications using JavaScript and React. 
 
