@@ -1,7 +1,15 @@
 # Hi, I'm Dunu Chibuike 👋
 ### Frontend Web Developer & Computer Science Student
 
-Welcome to my profile! I just completed my 6-month industrial placement at **The Curve Africa**, where I focused heavily on building mobile-responsive web applications using JavaScript and React. 
+Welcome to my profile! I am a Frontend Developer and a Computer Science student at Mountain Top University with a genuine passion for software engineering. I love the process of turning complex design ideas into real, functional digital products that people can seamlessly interact with across the globe.
+
+My core technical toolkit includes HTML5, CSS3, JavaScript (ES6+), and React.js. I have hands-on experience converting pixel-perfect Figma designs into fully responsive interfaces, integrating REST APIs, managing client-side application states, and ensuring cross-browser stability across all device viewports—whether desktop, tablet, or mobile.
+
+Beyond just writing code, I thrive in the problem-solving arena of development. Debugging a tricky runtime error, refactoring a broken responsive layout, and pushing through technical roadblocks until production compiles perfectly—that intense process is exactly what drives me as a developer.
+
+I have practical experience collaborating in cross-functional agile teams alongside backend engineers and product designers, helping ship real-world projects under strict timelines and pressure. I firmly believe that exceptional software is forged by collaborative teams, and I am constantly seeking opportunities to learn from and contribute to talented builders around me.
+
+I am currently on a journey of continuous growth—mastering new engineering architectural patterns daily, building systems consistently, and refining my capabilities to develop scalable products that solve real-world problems through technology.
 
 Here is the breakdown of the core projects I shipped and deployed live to production:
 
